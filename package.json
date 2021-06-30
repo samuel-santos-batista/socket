@@ -1,0 +1,8 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/samuel-santos-batista/socket.git",
+  "author": "samuel.batista <samuelsantxxi@gmail.com>",
+  "license": "MIT"
+}
